@@ -1,0 +1,255 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:6500px;
+}
+h3{
+	margin-top:35px;
+	font-size:24px;
+	color:#F00;
+	border-top:1px solid #CCC;
+}
+.red{
+	background-color:#F00;
+	color:#FFF;
+	padding:2px 15px;
+}
+
+.orange{
+	background-color:#F90;
+	color:#FFF;
+	padding:2px 15px;
+}
+
+.green{
+	background-color:#390;
+	color:#FFF;
+	padding:2px 15px;
+}
+
+.box{
+	height:150px;
+	width:250px;
+	background-color:#36F;
+	display:none;
+}
+.box-1{
+	height:150px;
+	width:250px;
+	background-color:#36F;
+	color:#FFF;
+	padding:15px;
+}
+.box-2{
+	height:250px;
+	width:350px;
+	background-color:#FC0;
+	display:none;
+}
+.box-3{
+	height:150px;
+	width:450px;
+	background-color:#690;
+	color:#FFF;
+	padding:15px;
+}
+#slideimg{
+	display:none;
+	width:450px;
+	height:150px;
+	background-color:#FC0;
+}
+.box-4{
+	height:150px;
+	width:270px;
+	background-color:#690;
+	color:#FFF;
+	padding:15px;
+	position:relative;
+}
+.error{
+	color:#F00;
+}
+
+<!--================================ example ================================-->
+.btn-drop{
+	border:1px solid #F00;
+	background:#F00;
+}
+ul#drop-down{
+	background-color:#666;
+	width:400px;
+	margin:0;
+	padding:0;
+	display:none;
+}
+ul#drop-down li{
+	border-bottom:1px solid #999;
+	list-style:none;
+	
+}
+ul#drop-down li a{
+	color:#CCC;
+	padding:7px;
+	display:block;
+	text-decoration:none;
+}
+.center{
+	display:block;
+	margin:0 auto;
+}
+nav.navcol{
+	padding:30px 0;
+	width:100%;
+	background-color:#333;
+	margin:0;
+	height:65px;
+}
+nav h2{
+	text-align:center;
+	color:#FC0;
+	margin-top:-55px;
+	padding:0;
+}
+.btn-slide {
+	display:table;
+	margin:0 auto;
+}
+.btn-slide button{
+	margin:45px 10px;
+	background:none;
+	border:1px solid #CCC;
+	padding:5px 15px;
+	cursor:pointer;
+}
+.square{
+	width:450px;
+	height:auto;
+	background-color:#FF6;
+	padding:12px;
+	margin:0 auto;
+	display:block;
+}
+.square h2{
+	text-align:center;
+	color:#F00;
+}
+.square p{
+	text-align:justify;
+	color:#00F;
+	font-size:14px;
+}
+.round{
+	width:450px;
+	height:450px;
+	border-radius:50%;
+	background-color:#9FF;
+	padding:12px;
+	margin:0 auto;
+	display:block;
+}
+ul.rmv-element{
+	background-color: green;
+	border: 1px solid red;
+	width: 450px;
+	color: white;
+}
+
+.world, .asia, .india, .wb, .kolkata, .dumdum, .myhome, .earth{
+	display: table;
+	margin: 0 auto;
+	height: auto;
+	padding: 10px 10px 15px;
+}
+.earth{
+	background-color: yellow;
+}
+.world{
+	background-color: red;
+	text-align: center;
+}
+.world p{
+	font-size: 32px;
+	}
+.asia{
+	background-color: yellow;
+}
+.india{
+	background-color: green;
+}
+.wb{
+	background-color: gray;
+}
+.kolkata{
+	background-color: blue;
+}
+
+.dumdum{
+	background-color:#c26e00;
+}
+
+.myhome{
+	background-color: #8aff00;
+}
+	
+.world img{
+	display: block;
+	margin: 0 auto;
+}
+.btn-sibling{
+	float: left;
+	padding: 5px;
+	border: 1px solid gray;
+	background-color: none;
+	cursor: pointer;
+}
+.btn-sibling:hover{
+	border: 1px solid red;
+	background-color:gray;
+}
+.A, .B, .C, .D, .E, .F, .G, .H {
+	padding: 25px;
+	height: 45px;
+	width: 45px;
+	background-color: red;
+	margin: 15px;
+	float: left;
+	text-align: center;
+	font: bold 15px arial;
+	color: white
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
